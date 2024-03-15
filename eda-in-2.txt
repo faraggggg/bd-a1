@@ -1,0 +1,1 @@
+Insight 2: The most common value in 'Gender' is 'M'
